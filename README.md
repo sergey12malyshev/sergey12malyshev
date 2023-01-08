@@ -3,4 +3,6 @@
 
 ⚡ My statistic:
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergey12malyshev) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergey12malyshev)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey12malyshev&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
