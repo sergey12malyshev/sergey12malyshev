@@ -1,5 +1,5 @@
  👋 Привет, данная страничка создана для хранения своих любительских проектов 💡
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2900&pause=200&multiline=true&width=650&height=100&lines=Electronics+engineer;Tesla+coil+%7C+32-bit+microcontrollers+%7C+Raspberry+Pi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3100&pause=200&multiline=true&width=690&height=100&lines=Electronics+engineer;Tesla+coil+%7C+32-bit+microcontrollers+%7C+Raspberry+Pi;Hello,+this+page+was+created+to+store+my+amateur+projects;0xFFFFFFFFFF)](https://git.io/typing-svg)
 
 ⚡ My statistic:
 
